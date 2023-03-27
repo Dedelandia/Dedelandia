@@ -1,5 +1,5 @@
 -  Hi, I'm @Dedelandia
 -  I'm 20 years old
--  I'm interested in coding
+-  I like coding
 -  I already learned js and php
 -  I also know html and css
